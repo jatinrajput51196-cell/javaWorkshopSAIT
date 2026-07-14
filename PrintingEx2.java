@@ -4,7 +4,7 @@ public class PrintingEx2 {
 		double a=25.674;
 		int b=0;
 		char c='h';
-		String d="Sukesh";
+		String d="Ritik Parmar";
 		boolean e=true;
 		System.out.printf("%f\n",a);
 		System.out.printf("%d\n",b);
